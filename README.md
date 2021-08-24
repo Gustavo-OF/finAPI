@@ -11,6 +11,7 @@ API de finanças em NodeJS
 - Atualizar dados na conta do cliente
 - Obter dados da conta do cliente
 - Deletar uma conta
+- Deve ser possível retornar o balance
 
 ## Regras:
 
